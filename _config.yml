@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://username.github.io"
+url: "http://AnimeT.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -70,8 +70,8 @@ author:
 # Uncomment the links you want to show in the footer and add your information to each link.
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
-social-network-links:
-  rss: true
+social-network-links:"Alyareimbusy@gmail.com"
+  rss: flase 
   email: "Alyareimbusy@gmail.com"
 
  
@@ -91,10 +91,10 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  google: false
-  linkedin: true
+  twitter: @a217x
+  facebook: @a217x
+  google: @a217x
+  linkedin: @a217x
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
@@ -159,10 +159,10 @@ defaults:
       path: "" # all files
     values:
       layout: "page"
-      show-avatar: true
+      show-avatar: 
 
 # Use tags index page and make tags on each post clickable
-link-tags: true
+link-tags:@a217x
 
 # Exclude these files from production site
 exclude:
@@ -200,27 +200,27 @@ prose:
           element: "text"
           label: "Post title"
           placeholder: "Title"
-          alterable: true
+          alterable: tru
       - name: "subtitle"
         field:
           element: "textarea"
           label: "Subtitle"
           placeholder: "A description of your post."
-          alterable: true
+          alterable: tru
       - name: "date"
         field:
           element: "text"
           label: "Date"
           help: "Enter date of post."
           placeholder: "yyyy-mm-dd"
-          alterable: true
+          alterable: tru
       - name: "image"
         field:
           element: "text"
           label: "Image"
           help: "Add a thumbnail image to your post."
           placeholder: "Thumbnail"
-          alterable: true
+          alterable: tru
       - name: "published"
         field:
           element: "checkbox"
