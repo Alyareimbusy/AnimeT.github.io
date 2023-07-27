@@ -14,16 +14,16 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Deepak Bhatt
+title: LowTrouble
 
 # Short description of your site
-description: Making AI easy
+description: Confort over Fashion
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Me: "Providing people with Quality cloths was my dream since I was young and now I get to do it for a living"
   Resources:
     #- Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
@@ -64,7 +64,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Deepak Bhatt
+  name: LowTrouble
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -72,10 +72,9 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "deep_83bhatt@yahoo.co.in"
-  facebook: deepak
-  github: deepak
-  twitter: deepak
+  email: "Alyareimbusy@gmail.com"
+
+ 
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
